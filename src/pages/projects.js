@@ -108,11 +108,11 @@ const Details=({type ,time,place,info})=>{
 
 }
 const projects = () => {
-    const ref = useRef(null);
-    const {scrollYProgress}=useScroll({
-        target:ref,
-        offset:["start end","center start"]
-    })
+    // const ref = useRef(null);
+    // const {scrollYProgress}=useScroll({
+    //     target:ref,
+    //     offset:["start end","center start"]
+    // })
     return (
         <>
             <Head>
@@ -226,8 +226,7 @@ local currency.'
                         time=" Jul 2023– Jul 2024"
                         place="Bannari Amman Institute of Technology (BIT)"
                         info= "Achieved a 63.3% membership increase, led 501 members and 4 student heads in organising 5 Gen AI and Google Cloud events, facilitated
- Gen AI Study Jams 2024, and reached Tier #1 Milestone with 84 completions"
-                    />
+ Gen AI Study Jams 2024, and reached Tier #1 Milestone with 84 completions"/>
                      <Details
                         type=" Core Member, GDSC (Google Developers Student Club) BIT"
                         time=" Nov 2022– July 2023"
@@ -240,14 +239,13 @@ local currency.'
                         time="  Sep 2022– Aug 2023"
                         place=" Chennai"
                         info= " Fundraised INR 3.4 lakh for annual sports events within 4 months by engaging private hospitals and medical associations while leading a
- team of 7 volunteers; maintained 78% attendance in weekly civic activities such as upcycling workshops and afforestation camps"
-                    />
+ team of 7 volunteers; maintained 78% attendance in weekly civic activities such as upcycling workshops and afforestation camps"/>
+
                     <Details
                         type=" Secretary, BOE (Bureau of Overseas Education) Club"
                         time=" Jun 2021– Mar 2022"
                         place="Bannari Amman Institute of Technology (BIT)"
-                        info= " Led 141 members and 62 volunteers, partnered with consultancy agencies like IDP & Career Zone, organised 8+ events, including 2 career
- fairs for 150 students, and guided admissions for September 2024 through social media promotions"
+                        info= " Led 141 members and 62 volunteers, partnered with consultancy agencies like IDP & Career Zone, organised 8+ events, including 2 career fairs for 150 students, and guided admissions for September 2024 through social media promotions"
                     />
                    
 
