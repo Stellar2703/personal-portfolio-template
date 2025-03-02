@@ -108,15 +108,15 @@ const Details=({type ,time,place,info})=>{
 
 }
 const projects = () => {
-    // const ref = useRef(null);
-    // const {scrollYProgress}=useScroll({
-    //     target:ref,
-    //     offset:["start end","center start"]
-    // })
+    const ref = useRef(null);
+    const {scrollYProgress}=useScroll({
+        target:ref,
+        offset:["start end","center start"]
+    })
     return (
         <>
             <Head>
-                <title>Varsha G</title>
+                <title>Varsha cd G</title>
                 <meta name="description" content="any description" />
             </Head>
             <TransitionEffect />
