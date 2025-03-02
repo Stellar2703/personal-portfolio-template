@@ -225,21 +225,18 @@ local currency.'
                         type=" Lead, GDSC (Google Developers Student Club) BIT"
                         time=" Jul 2023– Jul 2024"
                         place="Bannari Amman Institute of Technology (BIT)"
-                        info= "Achieved a 63.3% membership increase, led 501 members and 4 student heads in organising 5 Gen AI and Google Cloud events, facilitated
- Gen AI Study Jams 2024, and reached Tier #1 Milestone with 84 completions"/>
+                        info= "Achieved a 63.3% membership increase, led 501 members and 4 student heads in organising 5 Gen AI and Google Cloud events, facilitated Gen AI Study Jams 2024, and reached Tier #1 Milestone with 84 completions"/>
                      <Details
                         type=" Core Member, GDSC (Google Developers Student Club) BIT"
                         time=" Nov 2022– July 2023"
                         place="Bannari Amman Institute of Technology (BIT)"
-                        info= "Revitalized and Registered the club, leading 371 members and a team of 9 to organise 6 events, including learning campaigns, hackathons
- and Extended Google I/O; organised 4 learning campaigns and 2 tech talks, registering 800+ in campaigns and participation of 500+"
+                        info= "Revitalized and Registered the club, leading 371 members and a team of 9 to organise 6 events, including learning campaigns, hackathons and Extended Google I/O, organised 4 learning campaigns and 2 tech talks, registering 800+ in campaigns and participation of 500+"
                     />
                     <Details
                         type=" Volunteer,Bhumi"
                         time="  Sep 2022– Aug 2023"
                         place=" Chennai"
-                        info= " Fundraised INR 3.4 lakh for annual sports events within 4 months by engaging private hospitals and medical associations while leading a
- team of 7 volunteers; maintained 78% attendance in weekly civic activities such as upcycling workshops and afforestation camps"/>
+                        info= " Fundraised INR 3.4 lakh for annual sports events within 4 months by engaging private hospitals and medical associations while leading a team of 7 volunteers; maintained 78% attendance in weekly civic activities such as upcycling workshops and afforestation camps"/>
 
                     <Details
                         type=" Secretary, BOE (Bureau of Overseas Education) Club"
@@ -247,10 +244,6 @@ local currency.'
                         place="Bannari Amman Institute of Technology (BIT)"
                         info= " Led 141 members and 62 volunteers, partnered with consultancy agencies like IDP & Career Zone, organised 8+ events, including 2 career fairs for 150 students, and guided admissions for September 2024 through social media promotions"
                     />
-                   
-
-
-
                 </ul>
             </div>
         </div>
