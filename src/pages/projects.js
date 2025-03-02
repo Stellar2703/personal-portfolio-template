@@ -107,7 +107,7 @@ const Details=({type ,time,place,info})=>{
     </li>
 
 }
-const projects = () => {
+const Projects = () => {
     const ref = useRef(null);
     const {scrollYProgress}=useScroll({
         target:ref,
@@ -252,4 +252,4 @@ local currency.'
 }
 
 
-export default projects
+export default Projects;
